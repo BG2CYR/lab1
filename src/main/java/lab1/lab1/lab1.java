@@ -1,4 +1,4 @@
-package lab1.lab1;
+﻿package lab1.lab1;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -10,7 +10,7 @@ import java.util.Set;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 //add this line for lab3
-//add something more
+//add for c4
 public class lab1
 {
 	static int debug=0;

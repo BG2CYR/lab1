@@ -1,6 +1,6 @@
 package lab1.lab1;
 
-
+//hello
 public class App 
 {
     public static void main( String[] args )
