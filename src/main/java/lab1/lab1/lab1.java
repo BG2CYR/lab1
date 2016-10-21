@@ -9,10 +9,7 @@ import java.util.Map;
 import java.util.Set;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
-/**
- * Hello world!
- *
- */
+//add this line for lab1
 public class lab1
 {
 	static int debug=0;
