@@ -21,7 +21,7 @@ public class calcTest {
 
 	@Before
 	public void setUp() throws Exception {
-		test=new calc("2*x+3*y+2-z+5*x*z");
+		test=new calc(" 2*x +3*y+2-z+5*x*z");
 	}
 
 	@After
